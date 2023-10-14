@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Soorya Marri](https://github.com/M-SAI-SOORYA)
+
+- Place: Hyderabad, Telangana, India
+- Bio: I am 3rd year graduate Computer Science Engineer!
+- GitHub: [M-SAI-SOORYA](https://github.com/M-SAI-SOORYA)
